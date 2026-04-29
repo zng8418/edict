@@ -2,8 +2,8 @@
   {
     "id": "taizi",
     "name": "taizi",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-taizi",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\taizi\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-taizi",
+    "agentDir": "/home/szjacky/.openclaw/agents/taizi/agent",
     "subagents": {
       "allowAgents": ["zhongshu"]
     }
@@ -11,8 +11,8 @@
   {
     "id": "zhongshu",
     "name": "zhongshu",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-zhongshu",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\zhongshu\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-zhongshu",
+    "agentDir": "/home/szjacky/.openclaw/agents/zhongshu/agent",
     "subagents": {
       "allowAgents": ["menxia", "shangshu"]
     }
@@ -20,8 +20,8 @@
   {
     "id": "menxia",
     "name": "menxia",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-menxia",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\menxia\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-menxia",
+    "agentDir": "/home/szjacky/.openclaw/agents/menxia/agent",
     "subagents": {
       "allowAgents": ["shangshu", "zhongshu"]
     }
@@ -29,8 +29,8 @@
   {
     "id": "shangshu",
     "name": "shangshu",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-shangshu",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\shangshu\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-shangshu",
+    "agentDir": "/home/szjacky/.openclaw/agents/shangshu/agent",
     "subagents": {
       "allowAgents": ["zhongshu", "menxia", "hubu", "libu", "bingbu", "xingbu", "gongbu", "libu_hr"]
     }
@@ -38,8 +38,8 @@
   {
     "id": "hubu",
     "name": "hubu",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-hubu",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\hubu\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-hubu",
+    "agentDir": "/home/szjacky/.openclaw/agents/hubu/agent",
     "subagents": {
       "allowAgents": ["shangshu"]
     }
@@ -47,8 +47,8 @@
   {
     "id": "libu",
     "name": "libu",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-libu",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\libu\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-libu",
+    "agentDir": "/home/szjacky/.openclaw/agents/libu/agent",
     "subagents": {
       "allowAgents": ["shangshu"]
     }
@@ -56,8 +56,8 @@
   {
     "id": "bingbu",
     "name": "bingbu",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-bingbu",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\bingbu\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-bingbu",
+    "agentDir": "/home/szjacky/.openclaw/agents/bingbu/agent",
     "subagents": {
       "allowAgents": ["shangshu"]
     }
@@ -65,8 +65,8 @@
   {
     "id": "xingbu",
     "name": "xingbu",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-xingbu",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\xingbu\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-xingbu",
+    "agentDir": "/home/szjacky/.openclaw/agents/xingbu/agent",
     "subagents": {
       "allowAgents": ["shangshu"]
     }
@@ -74,8 +74,8 @@
   {
     "id": "gongbu",
     "name": "gongbu",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-gongbu",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\gongbu\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-gongbu",
+    "agentDir": "/home/szjacky/.openclaw/agents/gongbu/agent",
     "subagents": {
       "allowAgents": ["shangshu"]
     }
@@ -83,8 +83,8 @@
   {
     "id": "libu_hr",
     "name": "libu_hr",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-libu_hr",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\libu_hr\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-libu_hr",
+    "agentDir": "/home/szjacky/.openclaw/agents/libu_hr/agent",
     "subagents": {
       "allowAgents": ["shangshu"]
     }
@@ -92,8 +92,8 @@
   {
     "id": "zaochao",
     "name": "zaochao",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-zaochao",
-    "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\zaochao\\agent",
+    "workspace": "/home/szjacky/.openclaw/workspace-zaochao",
+    "agentDir": "/home/szjacky/.openclaw/agents/zaochao/agent",
     "subagents": {
       "allowAgents": []
     }
